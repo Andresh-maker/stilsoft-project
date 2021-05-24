@@ -1,0 +1,11 @@
+{
+  "firebaseConfig" : {
+    "apiKey": "AIzaSyCiPYxCLCmvZgJawwcrrED7l2QJlt5M9iI",
+    "authDomain": "my-test-project-from-stilsoft.firebaseapp.com",
+    "projectId": "my-test-project-from-stilsoft",
+    "storageBucket": "my-test-project-from-stilsoft.appspot.com",
+    "messagingSenderId": "632595964691",
+    "appId": "1:632595964691:web:337bc178fae8d60f5b30e6",
+    "measurementId": "G-9Z7MRQ1SZE"
+  }
+}
